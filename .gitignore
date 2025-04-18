@@ -1,0 +1,5 @@
+.env
+.venv
+.ropeproject
+codebase
+__pycache__
